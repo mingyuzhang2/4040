@@ -1,0 +1,15 @@
+#################
+#Temporary files#
+#################
+*.swp
+*.pyc
+.env/*
+
+###############
+# Other files #
+###############
+.ipynb_checkpoints/*
+ref/*
+test.ipynb
+__pycache__/*
+.idea/*
